@@ -1,2 +1,2 @@
 # palvelinten-hallinta
-Homework for course
+Homework for course Palvelinten hallinta
